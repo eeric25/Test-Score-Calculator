@@ -18,7 +18,7 @@ This LC-3 program calculates min, max, and average of 5 scores and assigns a let
 
 6. The final results are printed to the console.
 
-### System Overview and Performance
+### System Overview and Performance:
 
 - Min, max, and average of 5 values are calculated in a single linear pass. 
 - Arithmetic is performed using optimized loops of iterative addition.
